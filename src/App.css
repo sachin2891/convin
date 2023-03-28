@@ -1,0 +1,17 @@
+:root {
+  padding: 0;
+  margin: 20px;
+}
+
+.navbar {
+  background-color: dodgerblue;
+}
+
+.container-fluid {
+  font-size: 2rem;
+  font-style: bold;
+}
+
+.Links {
+  font-size: 1.5rem;
+}
